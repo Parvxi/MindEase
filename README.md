@@ -14,8 +14,12 @@ This picture represent the architecture of Mindease application :)
 
 ## Mindease application front-end 
 
+<div>
+  <img src="photo/MindEase front-end.jpg" width="500" hight="300">
+</div
 
-### Mindease application Methodology
+
+## Mindease application Methodology
 
 The methodology in our project involves four main steps: 
 
