@@ -6,6 +6,8 @@ The application uses Emotiv's EEG measurement technology to collect data from th
 
 ### Mindease application architecture
 
+This picture represent the architecture of Mindease application :)
+
 <div>
-  <img src="" width="150">
+  <img src="photo/application architecture.jpg" width="500" hight="300">
 </div>
