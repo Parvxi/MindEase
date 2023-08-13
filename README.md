@@ -13,9 +13,7 @@ This picture represent the architecture of Mindease application :)
 </div>
 
 ### Mindease application front-end 
-<div>
-  <img src="photo/application architecture.jpg" width="500" hight="300">
-</div>
+
 
 ### Mindease application Methodology
 
